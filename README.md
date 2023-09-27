@@ -1,4 +1,10 @@
-# Sane Client Project
+# Sane Front End Project Template
+
+A project scaffolding for scalable front-end application what meets the needs of the business world.
+
+[Read here more](https://www.bolshchikov.net/post/sane-front-end-project-architecture-based-on-12-years-of-experience) about the motivation behind it.
+
+![Architecture](./docs/architecture.excalidraw.png)
 
 ## What's inside?
 
